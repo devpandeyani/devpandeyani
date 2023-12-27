@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\src\CurlInitializer.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\ExceptionHelpers.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\ClientImpl.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\CurlImpl.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\UserImpl.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\ServerResponse.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\MediaImpl.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\ApiUrls.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\UrlBuilder.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\ImagesImpl.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\VideosImpl.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\MediaDataImpl.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\LocationImpl.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="..\src\StdioApiImpl.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\include\cpp-instagram\Client.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\cpp-instagram\Exception.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\cpp-instagram\User.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\Curl.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\CurlApi.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\CurlApiImpl.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\CurlInitializer.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\ExceptionHelpers.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\ClientImpl.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\CurlImpl.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\UserImpl.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\UserInfo.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\ServerResponse.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\cpp-instagram\NonCopyable.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\cpp-instagram\AuthenticatedClient.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\cpp-instagram\Media.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\MediaImpl.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\ApiUrls.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\UrlBuilder.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\MediaInfo.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\cpp-instagram\Images.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\ImagesImpl.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\cpp-instagram\Videos.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\VideosImpl.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\cpp-instagram\MediaData.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\MediaDataImpl.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\ImageInfo.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\MediaDataInfo.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\VideoInfo.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\LocationInfo.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\include\cpp-instagram\Location.h">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\LocationImpl.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\StdioApi.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="..\src\StdioApiImpl.h">
+      <Filter>src</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="include">
+      <UniqueIdentifier>{b42f5f2d-6568-4791-ae3d-fc0da0356a67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{5288c40e-0b95-409c-a892-cc93b3fffe58}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
